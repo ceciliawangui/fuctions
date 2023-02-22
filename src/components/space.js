@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import "../Components/app.js";
+import "../Components/space.css";
 import react from 'react'
 
 function Main() {
